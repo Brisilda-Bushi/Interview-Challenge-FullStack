@@ -5,6 +5,8 @@ For Frontend I used :
 ![TypeScript](https://img.shields.io/badge/Typescript-333333?style=flat&logo=Typescript)
 ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular)
 
+You can check the Demo here: (https://frontend-carsale-coding-challenge.netlify.app/)
+
 (First project working on Angular and Typescript)
 
 For Backend I used:
